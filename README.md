@@ -8,4 +8,4 @@
 3. Changed a file and committed those changes to GitHub: pencil to edit file, commit changes
 4. Opened and merged a pull request: 'Pull Request', walk through pulling, delete branch
 
-`#RRGGBB I had fun learning how to create my own githubpage, this is awesome!!'
+`#RRGGBBI had fun learning how to create my own githubpage, this is awesome!!'
